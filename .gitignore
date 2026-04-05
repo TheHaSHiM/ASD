@@ -1,1 +1,9 @@
-/.vscode
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# VS Code
+.vscode/
